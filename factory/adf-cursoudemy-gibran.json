@@ -1,0 +1,9 @@
+{
+	"name": "adf-cursoudemy-gibran",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1843eec-d4f6-4417-bdd7-f68905e63a03",
+		"tenantId": "2da3dd61-f5b3-42a5-8b14-880fa1054f9a"
+	}
+}
