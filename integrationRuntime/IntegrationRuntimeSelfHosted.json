@@ -1,6 +1,0 @@
-{
-	"name": "IntegrationRuntimeSelfHosted",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
